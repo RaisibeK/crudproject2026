@@ -238,7 +238,7 @@ crudproject2026/
 ├── validators.py          # Input validation functions
 ├── employees_manager.py   # Service layer with CRUD operations
 ├── requirements.txt       # Python dependencies
-├── README.md             # This file
+├── README.md             # File that contains project description with setup instructions
 └── employees.db          # SQLite database (auto-created)
 ```
 
