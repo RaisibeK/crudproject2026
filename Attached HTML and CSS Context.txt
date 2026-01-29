@@ -12,3 +12,4 @@ html {
 :root {
   view-transition-name: root;
 }
+

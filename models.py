@@ -5,6 +5,7 @@ from datetime import datetime
 from typing import Optional
 
 
+
 @dataclass
 class Employee:
     """Employee entity with all required fields."""

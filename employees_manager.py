@@ -214,3 +214,5 @@ def get_employee_count() -> int:
     """Get total number of employees."""
     result = db.execute_single("SELECT COUNT(*) as count FROM employees")
     return result["count"] if result else 0
+
+

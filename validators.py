@@ -99,3 +99,4 @@ def validate_employee_data(data: dict) -> Tuple[bool, Dict[str, str]]:
             errors["salary"] = error
     
     return len(errors) == 0, errors
+

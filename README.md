@@ -287,3 +287,4 @@ pytest tests/
 ## License
 
 This is an internship assessment project.
+
