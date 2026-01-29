@@ -231,7 +231,7 @@ def employees_view():
                             <td>{emp.last_name}</td>
                             <td>{emp.email}</td>
                             <td>{emp.position}</td>
-                            <td>${emp.salary:,.2f}</td>
+                            <td>R{emp.salary:,.2f}</td>
                             <td>{emp.created_at}</td>
                         </tr>
                 """
