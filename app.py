@@ -235,6 +235,7 @@ def employees_view():
                             <td>{emp.created_at}</td>
                         </tr>
                 """
+                
             
             html += """
                     </tbody>
